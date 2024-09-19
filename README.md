@@ -57,6 +57,11 @@ $$\delta < \omega_0~,~~~\mathrm{with}~~
 \delta = \dfrac{\mu}{2m}~,~~~~~~\omega_0 = \sqrt{\dfrac{k}{m}},~~~~ \omega = \sqrt{\omega_0^2 - \delta^2}$$
 
 
+
+
 This has the following **exact solution**:
 
 $$x(t) = e^{-\delta t} \text{cos}(\omega t) + {\delta}\text{sin}(\omega t)$$
+
+![underdamped_oscillator_with_spring](https://github.com/user-attachments/assets/d4adb8b1-3ccc-451b-b92e-29a9bb28404e)
+
