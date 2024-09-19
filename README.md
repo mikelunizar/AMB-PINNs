@@ -18,8 +18,8 @@ For any inquiries or assistance, please feel free to contact our faculty:
 <p style="text-align: center; font-family: 'Arial', sans-serif; color: #34495e; font-size: 18px;">
   <strong>Authors notebook</strong><br>
   </p>
-  PhD student Lucas Tesan
+  PhD student Lucas Tesan           | ltesan@unizar.es
   </p>
-  PhD student Mikel Martinez
+  PhD student Mikel M. Iparraguirre | mikel.martinez@unizar.es
 </p>
 
