@@ -1,5 +1,5 @@
 <h1 style="text-align: center; font-family: 'Arial', sans-serif; color: #2c3e50;">
-  <strong>UKACM & SEMNI Autumn School: Physics-Enhanced Machine Learning</strong>
+  <strong>Physics-Enhanced Machine Learning.</strong>
 </h1>
 
 <p style="text-align: center; font-family: 'Arial', sans-serif; color: #34495e; font-size: 16px;">
@@ -9,6 +9,7 @@
   </p>
   PhD student <strong>Mikel M. Iparraguirre</strong> | mikel.martinez@unizar.es
 </p>
+<i>AMB, Aragón Institute of Engineering Research.</i>
 
 <hr style="border: 1px solid #2c3e50; width: 80%; margin: auto;">
 
