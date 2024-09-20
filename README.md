@@ -4,12 +4,25 @@
 
 <p style="text-align: center; font-family: 'Arial', sans-serif; color: #34495e; font-size: 16px;">
   <i>Authors notebook</i>
-  </p>
-  PhD student <strong>Lucas Tesan</strong>         | ltesan@unizar.es
-  </p>
-  PhD student <strong>Mikel M. Iparraguirre</strong> | mikel.martinez@unizar.es
 </p>
-<i>AMB, Aragón Institute of Engineering Research.</i>
+<p>
+  PhD student <strong>Lucas Tesan</strong> |
+  <a href="https://www.linkedin.com/in/lucas-tesan-ingbiozar/">
+  <img src="https://img.shields.io/badge/-Linkdln%20page-blue" alt="LinkedIn link">
+</p>
+    <a href="mailto:ltesan@unizar.es">ltesan@unizar.es</a>
+</p>
+<p>
+  PhD student <strong>Mikel M. Iparraguirre</strong> | 
+  <a href="https://www.linkedin.com/in/mikel-m-iparraguirre-80196b13b/">
+  <img src="https://img.shields.io/badge/-Linkdln%20page-blue" alt="LinkedIn link">
+</p>
+    <a href="mailto:mikel.martinez@unizar.es">mikel.martinez@unizar.es</a>
+</p>
+<p>
+  <i>AMB, Aragón Institute of Engineering Research.</i> 
+  </a>
+</p>
 
 <hr style="border: 1px solid #2c3e50; width: 80%; margin: auto;">
 
