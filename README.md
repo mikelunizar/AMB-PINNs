@@ -25,6 +25,7 @@
 
 This notebook provides a detailed walkthrough for solving a Sinusoidal Velocity ODE using both methods. It offers a clear comparison between the data-driven solver and the PINNs approach, covering model setup, training, and result analysis.
 
+**Problem statement for the example.**
 - Let's look at the ODE:
   
 $$\frac{du}{dt} = \cos2\pi t$$
@@ -43,8 +44,9 @@ $$u(t) = \frac{1}{2\pi}\sin2\pi t + 1$$
 
 Focuses on the Underdamped Harmonic Oscillator problem, showcasing the differences between data-driven and PINNs solutions. It includes a detailed implementation and comparative results.
 
+**Problem statement for the example.**
 - Let's look at the ODE:
-- 
+
 $$m \dfrac{d^2 x}{d t^2} + \mu \dfrac{d x}{d t} + kx = 0~,$$
 
 - Initial conditions in position and velocity
@@ -62,6 +64,8 @@ $$\delta < \omega_0~,~~~\mathrm{with}~~
 This has the following **exact solution**:
 
 $$x(t) = e^{-\delta t} \text{cos}(\omega t) + {\delta}\text{sin}(\omega t)$$
+
+**Visualizations of the model's performance and additional insights inside the notebook...**
 
 ![underdamped_oscillator_with_spring](https://github.com/user-attachments/assets/d4adb8b1-3ccc-451b-b92e-29a9bb28404e)
 
